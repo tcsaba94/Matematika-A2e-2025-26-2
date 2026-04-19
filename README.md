@@ -7,3 +7,4 @@
 - [5. Feladatsor: Fourier-sorok](A2_5.pdf)
 - [6. feladatsor: Mátrixműveletek, Mátrixok determinánsa és inverze](A2_6.pdf)
 - [7. feladatsor: Mátrixok rangja és az egyenletrendszerek](A2_7.pdf)
+- [8. Feladatsor: Vektorok lineáris függetlensége és a bázisok](A2_8.pdf)
