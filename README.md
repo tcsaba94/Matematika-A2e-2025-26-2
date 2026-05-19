@@ -10,4 +10,5 @@
 - [8. Feladatsor: Vektorok lineáris függetlensége és a bázisok](A2_8.pdf)
 - [9. Feladatsor: Lineáris leképezések és mátrixaik](A2_9.pdf)
 - [10. Feladatsor: Sajátértékek és sajátvektorok](A2_10.pdf)
-- [11. Feladatsor: Többváltozós függvények határértéke, gradiense és az iránymenti derivált](A2_11.pdf)
+- [11. Feladatsor: Többváltozós függvények gradiense és az iránymenti derivált](A2_11.pdf)
+- [12. Feladatsor: Töbváltozós függvények határértéke és a totális derivált](A2_12.pdf)
