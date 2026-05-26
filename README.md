@@ -12,3 +12,4 @@
 - [10. Feladatsor: Sajátértékek és sajátvektorok](A2_10.pdf)
 - [11. Feladatsor: Többváltozós függvények gradiense és az iránymenti derivált](A2_11.pdf)
 - [12. Feladatsor: Töbváltozós függvények határértéke és a totális derivált](A2_12.pdf)
+- [13. Feladatsor: Többváltozós függvények szélsőértékei és a többváltozós integrál](A2_13.pdf)
